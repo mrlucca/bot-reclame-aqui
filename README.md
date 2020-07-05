@@ -4,11 +4,13 @@
  
  ## requisitos:
  
- '''
+ ### selenium webdriver
+ ---
  pip install selenium
- '''
+ ---
  
- '''
+ ### beautiful soup
+ ---
  pip install bs4
- '''
+ ---
  
